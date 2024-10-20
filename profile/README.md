@@ -7,7 +7,7 @@ Whether you're a developer, designer, or writer—we have a place for you. Let's
 
 
 ### 🌟 **What We Do**  
-- **OBeginner-Friendly Guides:** Step-by-step tutorials to guide you through the open-source space.  
+- **Beginner-Friendly Guides:** Step-by-step tutorials to guide you through the open-source space.  
 - **Curated Resources:** Access to the best tools, guides, and articles for newcomers.  
 - **Community Support:** Join our community and collaborate with others on open-source projects.
 - **Regular Updates:** Stay ahead with the latest trends and best practices in open source.
