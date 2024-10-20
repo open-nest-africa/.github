@@ -38,8 +38,7 @@ We’re a passionate group of developers, designers, and writers—working toget
 - **Mutiat Bashua** – *Software Developer*  
   _Passionate about coding and building impactful open-source tools._
 
-![Team (1)](https://github.com/user-attachments/assets/14e47e49-d2c3-4d26-bab8-e788a0efef6a)
-
+![Temyyy](https://github.com/user-attachments/assets/5148134e-4225-4055-8dc3-95f6392b34cf)
 
 ---
 
