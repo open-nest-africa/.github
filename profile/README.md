@@ -29,13 +29,13 @@ Whether you're a developer, designer, or writer—we have a place for you. Let's
 ### 👫 **Meet the Team**  
 We’re a passionate group of developers, designers, and writers—working together to make open source more inclusive.  
 
-- **[Aishat Muibudeen]** – *Community Manager & Product Designer*  
+- **Aishat Muibudeen** – *Community Manager & Product Designer*  
   _I love building meaningful tools and simplifying complex ideas for the community._  
-- **[Noimot Alabi]** – *FrontEnd Developer*  
+- **Noimot Alabi** – *FrontEnd Developer*  
   _Frontend enthusiast with a passion for clean, functional design._
-- **[Miracle Ozukalu]** – *Product Designer*  
+- **Miracle Ozukalu** – *Product Designer*  
   _Committed to crafting intuitive and accessible user experiences._
-- **[Mutiat Bashua]** – *Software Developer*  
+- **Mutiat Bashua** – *Software Developer*  
   _Passionate about coding and building impactful open-source tools._
 
 ![Team (1)](https://github.com/user-attachments/assets/14e47e49-d2c3-4d26-bab8-e788a0efef6a)
