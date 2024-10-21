@@ -15,7 +15,7 @@ Whether you're a developer, designer, or writer—we have a place for you. Let's
 ### 🔗 **Explore Our Projects**  
 | Repository        | Description                       |  
 |-------------------|-----------------------------------|  
-| [open-nest-core]([https://github.com/open-nest-africa/open-nest-africa) | The heart of our project! 🛠 |  
+| [open-nest-core]([[https://github.com/open-nest-africa/open-nest-africa](https://github.com/open-nest-africa/open-nest-africa)) | The heart of our project! 🛠 |  
 | [open-nest-docs](https://github.com/open-nest-africa/open-nest-docs) | Technical guides and documentation 📖 |  
 | [open-nest-website](https://github.com/your-org/open-nest-website) | Our community website 🌐 |  
 
