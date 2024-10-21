@@ -1,6 +1,6 @@
-## 🏡 **Welcome to OpenNest**  
+## 🏡 **Welcome to OpenNest-Africa**  
 
-**OpenNest** is a vibrant, community-driven initiative dedicated to making open source fun, accessible, and inclusive for all!  
+**OpenNest-Africa** is a vibrant, community-driven initiative dedicated to making open source fun, accessible, and inclusive for all!  
 Whether you're a developer, designer, or writer—we have a place for you. Let's build amazing things together!
 
 ![OpenNest Africa](https://github.com/user-attachments/assets/6a641175-18b8-4247-b763-94e763e8a34d)
