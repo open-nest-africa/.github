@@ -46,7 +46,7 @@ We’re a passionate group of developers, designers, and writers—working toget
 If you have questions or ideas or want to say hello, we'd love to hear from you!  
 
 - **Join Us on Slack:** [@Opennest-Africa](https://X.com/OpenNest-Africa)  
-- **Website:** [https://open-nest-africa-website.com](opennestcommunity.netlify.app/)  
+- **Website:** [OpenNest-Africa](https://opennestafrica.netlify.app/)  
 
 ---
 
