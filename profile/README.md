@@ -22,7 +22,7 @@ Whether you're a developer, designer, or writer—we have a place for you. Let's
 ### 🌍 **Join Us**  
 - **Star Us** on [GitHub](https://github.com/your-org)!
 - **Contribute**: Pick an issue tagged **good-first-issue** and get started today.
-- **Support Us on OpenCollective**: Help us grow and sustain our efforts.  
+- **Support Us** on [OpenCollective](https://opencollective.com/open-nest-africa) : Help us grow and sustain our efforts.  
 
 ---
 
