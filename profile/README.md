@@ -1,5 +1,7 @@
 ## 🏡 **Welcome to OpenNest-Africa**  
 
+Your Safe Start for Every OpenSourcer!
+
 **OpenNest-Africa** is a vibrant, community-driven initiative dedicated to making open source fun, accessible, and inclusive for all!  
 Whether you're a developer, designer, or writer—we have a place for you. Let's build amazing things together!
 
