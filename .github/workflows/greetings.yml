@@ -2,10 +2,9 @@ name: Greetings
 
 on:
   workflow_call:
-    inputs:
+    secrets:
       repo-token:
         required: true
-        type: string
 
 jobs:
   greeting:
@@ -16,7 +15,7 @@ jobs:
     steps:
       - uses: actions/first-interaction@v1
         with:
-          repo-token: ${{ inputs.repo-token }}
+          repo-token: ${{ secrets.repo-token }}
           issue-message: |
             👋 Hey there amazing new contributor Welcome to OpenNest-Africa you’ve officially joined a vibrant family of builders dreamers and doers across the continent 🌍✨
 
